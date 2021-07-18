@@ -1,0 +1,27 @@
+# General
+/*
+!.gitignore
+
+!/Visual Studio
+/Visual Studio/*
+!/Visual Studio/Property Sheets
+!/Visual Studio/*.sln
+!/Visual Studio/*.vcxproj
+!/Visual Studio/*.vcxproj.user
+!/Visual Studio/*.vcxproj.filters
+!/Visual Studio/scripts/
+
+# Application
+
+!/libs
+!/Resources
+!/Source
+Laborator1/
+Laborator2/
+Laborator3/
+Laborator4/
+Laborator5/
+Laborator6/
+Laborator7/
+Laborator8/
+Laborator9/
